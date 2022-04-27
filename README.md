@@ -1,8 +1,11 @@
-# AutoCleanBot
-Automatically clean a channel in DIscord
+## Welcome to Coffee Bot
 
-# Commands
-!clean \[y\] - Cleans the channel you executed the command in, **wont clean pins unless y is passed**.  
-!autoclean (#channel) (time) (clear pins, pass `y` here) - Sets up a task to clean the mentioned channel every specified time. Example usage: !autoclean #bot-tests 5m y - This will clean #bot-tests every 5 mins and clear the pins.  
-!autoclean list - List the tasks.  
-!autoclean remove (#channel) - Remove a task for a certain channel. Example usage: !autoclean remove #bot-tests
+> #### Coffee Bot is an **open source** bot with some nifty features:
+>
+> - A *simple* yet **effective** reporting system which uses context menus to handle user and member reports (detailed examples with images on my top.gg page).
+> - A Discord server invite filter, link filter and chat filter - all with an optional log channel.
+>
+
+### **For a detailed list of commands, features and examples, visit my [top.gg](https://top.gg/bot/950765718209720360) page!**
+
+## [Invite Me!](https://discord.com/oauth2/authorize?client_id=950765718209720360&permissions=8&scope=bot%20applications.commands)
